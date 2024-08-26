@@ -37,7 +37,7 @@ profesional.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,js,mongodb,mysql,nextjs,nodejs,vite,postman,py,react,vscode,powershell,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs,vite,react,astro,tailwind,typescript&perline=14" />
   </a>
 </p>
 
