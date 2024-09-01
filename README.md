@@ -39,8 +39,8 @@ profesional.
   <ul align="center">
     <li>
       <!-- Usando Shields.io para un estilo de botón -->
-      <a href="https://mrugarte.github.io/Portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Visita%20mi%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portafolio">
+      <a href="https://mrugarte.github.io/Portfolio/">
+        <img src="https://img.shields.io/badge/Visita%20mi%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portafolio" target="_blank">
       </a>
     </li>
   </ul>
