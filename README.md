@@ -40,7 +40,7 @@ profesional.
     <li>
       <!-- Usando Shields.io para un estilo de botón -->
       <a href="https://mrugarte.github.io/Portfolio/">
-        <img src="https://img.shields.io/badge/Visita%20mi%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portafolio" target="_blank">
+        <img src="https://img.shields.io/badge/Visita%20mi%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portafolio">
       </a>
     </li>
   </ul>
@@ -68,7 +68,7 @@ profesional.
   <ul align="center">
     <summary><h2 style="display: inline-block">Conéctate conmigo🤝</h2></summary>
     <a href = "mailto:cmp.1a.marcougarte1998@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://linkedin.com/in/marcougartedeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+    <a href="https://linkedin.com/in/marcougartedeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
   </ul>
 </div>
 
