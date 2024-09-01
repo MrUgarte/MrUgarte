@@ -31,7 +31,27 @@ profesional.
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Tecnologías que conozco <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" style="margin-left: 10px"></h2></summary>
+    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" style="margin-left: 10px"> Portfolio</h2></summary>
+  </ul>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <li>
+      <!-- Usando Shields.io para un estilo de botón -->
+      <a href="https://mrugarte.github.io/Portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Visita%20mi%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portafolio">
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Tecnologías que conozco</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
